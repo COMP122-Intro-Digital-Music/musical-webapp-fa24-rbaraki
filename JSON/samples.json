@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "S",
+    "file": "samples/footsteps-in-water-nature-sounds-8185.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "L",
+    "file": "samples/nature-sound-near-river-or-waterfall-247409.mp3",
+    "bpm": "60",
+    "loop": "1m"
+  },
+  {
+    "name": "A",
+    "file": "samples/stopwatch-sounds-269019.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
